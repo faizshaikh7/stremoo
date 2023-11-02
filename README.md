@@ -1,6 +1,4 @@
-# stremoo
-
-A new Flutter project.
+# Stremoo Livestreaming Service Web & App
 
 ## Getting Started
 
